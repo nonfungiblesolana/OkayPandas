@@ -541,7 +541,7 @@
                                 disabled: j || R || !u,
                                 onClick: ae,
                                 variant: "containedSecondary",
-                                children: j ? "SOLD OUT" : u ? R ? Object(K.jsx)(O.a, {}) : "MINT (0.03 ◎)" : Object(K.jsx)(g.a, {
+                                children: j ? "SOLD OUT" : u ? R ? Object(K.jsx)(O.a, {}) : "MINT (0.10 ◎)" : Object(K.jsx)(g.a, {
                                     date: Q,
                                     onMount: function(e) {
                                         return e.completed && s(!0)
